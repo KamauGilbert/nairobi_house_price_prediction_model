@@ -38,3 +38,13 @@ This project aims to answer the question:
 The project is a work in progress. Once completed, a detailed article explaining the entire process will be linked here.
 
 For more detailed explanations, refer to the README.md files within each subfolder.
+
+
+### 🚀 **Skills Utilized & Acquired:**
+- 🐍 **Python for Data Science**: Leveraged Python's powerful libraries for data manipulation, analysis, and modeling.
+- 🌐 **Web Scraping**: Extracted valuable data from relevant real estate websites.
+- 🧠 **Domain Knowledge & Feature Engineering**: Applied real estate domain insights to create meaningful features.
+- 🌉 **Flask for Deployment**: Deployed the predictive model using Flask for seamless web integration.
+- 🔗 **APIs**: Integrated and utilized various APIs, including OpenAI for chatbot creation.
+- 📊 **MS Excel**: Used Excel for data organization, validation, and preliminary analysis.
+- 💻 **Git**: Version control and collaboration through Git, ensuring smooth project management.
