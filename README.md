@@ -43,7 +43,7 @@ For more detailed explanations, refer to the README.md files within each subfold
 ### 🚀 **Skills Utilized & Acquired:**
 - 🐍 **Python for Data Science**: Leveraged Python's powerful libraries for data manipulation, analysis, and modeling.
 - 🌐 **Web Scraping**: Extracted valuable data from relevant real estate websites.
-- 🧠 **Domain Knowledge & Feature Engineering**: Applied real estate domain insights to create meaningful features.
+- 🧠 **Domain Knowledge & Feature Engineering**: Applied Kenyan Market real estate domain insights to create meaningful features.
 - 🌉 **Flask for Deployment**: Deployed the predictive model using Flask for seamless web integration.
 - 🔗 **APIs**: Integrated and utilized various APIs, including OpenAI for chatbot creation.
 - 📊 **MS Excel**: Used Excel for data organization, validation, and preliminary analysis.
