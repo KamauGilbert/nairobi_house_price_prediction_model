@@ -32,7 +32,7 @@ This project aims to answer the question:
 - **🧹 cleaning_eda_modeling:** Contains Jupyter notebooks for data cleaning, EDA, and modeling. Also includes the cleaned CSV file ready for modeling.
 - **📂 data_collection:** Subfolder with web scraping scripts and the gathered data.
 - **🚀 inferencing_and_deployment:** Contains inferencing scripts, the `flask_app.py` script, and the respective `requirements.txt` file.
-- **💾 model_preprocessor_weight:** Contains the base model and fine-tuned model pickle files along with the preprocessor pickle file.
+- **💾 model_preprocessor_weights:** Contains the base model and fine-tuned model pickle files along with the preprocessor pickle file.
 
 ### 🚧 **Project Status:** 
 The project is a work in progress. Once completed, a detailed article explaining the entire process will be linked here.
