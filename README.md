@@ -23,9 +23,8 @@ This project aims to answer the question:
 7. **Automation with Airflow (Optional):** Automate processes using Airflow.
 8. **Write an Article:** Document the process and insights gained from the project.
 
-💡 **Note:** You can use data scraped from Project 3 for this project.
 
-This challenge was presented at the LUX hackathon held on Saturday, 20th July 2024, at Nation Centre.
+**This challenge was presented at the LUX hackathon held on Saturday, 20th July 2024, at Nation Centre.**
 
 ### 🗂️ **Repository Structure:**
 - **📁 data:** Main folder housing all other subfolders.
