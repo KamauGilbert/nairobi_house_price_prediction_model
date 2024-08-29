@@ -10,8 +10,8 @@
   
 - **Deployment**: Deploy the model using a web framework. ✅ (Done)
   
-- **Chatbot Creation**: Develop a chatbot using OpenAI APIs that provides housing information in Kenya. 🔄 (In Progress)
+- **Chatbot Creation**: Develop a chatbot using OpenAI APIs that provides housing information in Kenya. ✅ (Done) 
   
+- **Write an Article**: Document the process and insights gained from the project. 🔄 (In Progress)
+
 - **Automation with Airflow (Optional)**: Automate processes using Airflow. ❌ (Not Started)
-  
-- **Write an Article**: Document the process and insights gained from the project. ❌ (Not Started)
