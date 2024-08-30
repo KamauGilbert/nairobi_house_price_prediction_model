@@ -35,7 +35,7 @@ This project aims to answer the question:
 - **💾 model_preprocessor_weights:** Contains the base model and fine-tuned model pickle files along with the preprocessor pickle file.
 
 ### 🚧 **Project Status:** 
-The project is a work in complete with the optional part, `Automation with Airflow`, to be done at a later stage. Check out the technical article for this project here: https://dev.to/kamaugilbert/nairobi-county-property-price-prediction-model-technical-walkthrough-on-model-creation-pkf
+The project is a work in complete with the optional part, `Automation with Airflow`, to be done at a later stage. Check out the technical article for this project here: https://dev.to/kamaugilbert/nairobi-county-property-price-prediction-model-technical-walkthrough-on-model-creation-pkf. Enhancements to improve model performance will also be done progressively. Let's call this version (version 1)- 30/August/2024.
 
 For more detailed explanations, refer to the README.md files within each subfolder.
 
