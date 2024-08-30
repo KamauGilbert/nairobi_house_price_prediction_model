@@ -12,6 +12,6 @@
   
 - **Chatbot Creation**: Develop a chatbot using OpenAI APIs that provides housing information in Kenya. ✅ (Done) 
   
-- **Write an Article**: Document the process and insights gained from the project. 🔄 (In Progress)
+- **Write an Article**: Document the process and insights gained from the project. ✅ (Done)
 
-- **Automation with Airflow (Optional)**: Automate processes using Airflow. ❌ (Not Started)
+- **Automation with Airflow (Optional)**: Automate processes using Airflow. ❌ (Not Started) 🔄 (In Progress)
