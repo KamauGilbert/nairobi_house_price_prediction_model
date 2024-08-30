@@ -49,7 +49,7 @@ For more detailed explanations, refer to the README.md files within each subfold
 - 📊 **MS Excel**: Used Excel for data organization, validation, and preliminary analysis.
 - 💻 **Git**: Version control and collaboration through Git, ensuring smooth project management.
 
-### **Screenshot***
+### **Flask_app Screenshot**
 
 ![image](https://github.com/user-attachments/assets/5411662a-dc3d-4086-9929-fc4be8404663)
 
