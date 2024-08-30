@@ -2,7 +2,7 @@
 
 This project aims to answer the question:
 
-**Project 6 of 11: Nairobi Metropolitan House Price Prediction with Python**  
+**Project 6 of 8: Nairobi Metropolitan House Price Prediction with Python**  
 📊 **Objective:** Predict house prices in the Nairobi Metropolitan area using machine learning and data analysis. The project involves building a predictive model based on house data.
 
 ### 🛠️ Tools, Frameworks, and Technologies:
@@ -35,7 +35,7 @@ This project aims to answer the question:
 - **💾 model_preprocessor_weights:** Contains the base model and fine-tuned model pickle files along with the preprocessor pickle file.
 
 ### 🚧 **Project Status:** 
-The project is a work in progress. Once completed, a detailed article explaining the entire process will be linked here.
+The project is a work in complete with the optional part, `Automation with Airflow`, to be done at a later stage. Check out the technical article for this project here: https://dev.to/kamaugilbert/nairobi-county-property-price-prediction-model-technical-walkthrough-on-model-creation-pkf
 
 For more detailed explanations, refer to the README.md files within each subfolder.
 
